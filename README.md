@@ -45,13 +45,13 @@ Clusterização: Aplicação do K-Means e rotulagem dos dados.
 
 1. Definição do Número de Clusters 
 
-![Elbow Method](./results\output-cotovelokmeans.png)
+![Elbow Method](nfl-football-clustering/results\output-cotovelokmeans.png)
 
 Utilizei a inércia (WCSS) para identificar o ponto de inflexão onde adicionar mais clusters deixa de trazer ganho significativo de melhoria
 
 2. Análise de Tiers (Scatter Plot)
 
-![Elbow Method](./results\output-graphkmeans.png)
+![Elbow Method](nfl-football-clustering/results\output-graphkmeans.png)
 
 ## 🚀 Como Executar
 
