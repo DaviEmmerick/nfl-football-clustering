@@ -77,4 +77,4 @@ df_rb = rodar_kmeans_historico(df, 'RB', config_pos['RB'], n_clusters=4)
 
 ## Autor
 
-**Autor:** [Davi França Emmerick](https://www.linkedin.com/in/davi-emmerick/)
+**LinkedIn:** [Davi França Emmerick](https://www.linkedin.com/in/davi-emmerick/)
