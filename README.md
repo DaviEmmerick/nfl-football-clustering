@@ -45,13 +45,13 @@ Clusterização: Aplicação do K-Means e rotulagem dos dados.
 
 1. Definição do Número de Clusters 
 
-![Elbow Method](nfl-football-clustering/results\output-cotovelokmeans.png)
+![Elbow Method](results/output-cotovelokmeans.png)
 
 Utilizei a inércia (WCSS) para identificar o ponto de inflexão onde adicionar mais clusters deixa de trazer ganho significativo de melhoria
 
 2. Análise de Tiers (Scatter Plot)
 
-![Elbow Method](nfl-football-clustering/results\output-graphkmeans.png)
+![Elbow Method](results/output-graphkmeans.png)
 
 ## 🚀 Como Executar
 
@@ -74,3 +74,7 @@ df_rb = rodar_kmeans_historico(df, 'RB', config_pos['RB'], n_clusters=4)
 - Implementar PCA (Principal Component Analysis) para visualização 2D mais precisa de dados multidimensionais.
 
 - Criar uma análise detalhada dos centróides para nomear automaticamente os tiers (ex: "Elite", "Boom/Bust").
+
+## Autor
+
+**Autor:** [Davi França Emmerick](https://www.linkedin.com/in/davi-emmerick/)
